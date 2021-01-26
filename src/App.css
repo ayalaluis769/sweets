@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+background-color:mediumpurple;
+}
+
+
+.jumbotron {
+  margin: 0;
+  padding: 15px;
+  background-image: linear-gradient(to right, fuchsia, blueviolet, purple, indigo);
+  color: white;
+}
